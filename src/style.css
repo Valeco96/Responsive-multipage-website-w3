@@ -4,6 +4,21 @@
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
+@media (max-width: 660px) {
+  .container {
+    text-align: center;
+  }
+  h1 {
+    font-size: 70px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+}
+
 h1,
 h2,
 h3 {
